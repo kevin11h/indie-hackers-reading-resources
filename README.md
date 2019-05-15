@@ -9,3 +9,4 @@ http://fullbit.ca/15-books-indie-hackers-should-read/
 https://www.ihbooks.com
 
 https://builderbook.org/book
+https://www.goodreads.com/book/show/23310759-hello-ruby
